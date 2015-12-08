@@ -1,0 +1,162 @@
+{
+    "name": "abroad",
+    "widgetVersion":2,
+    "thumbnail": "thumbnail.png",
+    "screenshot": "screenshot.jpg",
+    "templateType":"standard",
+    "pageTypes": ["home"],
+    "tags": {
+    "en": ["minimal", "clean", "bright", "multipurpose", "simple", "contemporary", "flexible", "modern", "sans-serif", "photography"],
+    "es": ["minimalista", "limpio", "claro", "multiuso", "simple", "contemporáneo", "flexible", "moderno", "sans-serif", "fotográfico"],
+    "br": ["minimalista", "limpo", "claro", "multiuso", "simples", "contemporâneo", "flexível", "moderno", "sans-serif", "fotografia"]
+    },
+    "images":[
+        "images/feature-bg.jpg",
+        "images/logo.png",
+        "images/gallery/1.jpg",
+        "images/gallery/2.jpg",
+        "images/gallery/3.jpg",
+        "images/gallery/4.jpg",
+        "images/gallery/5.jpg",
+        "images/gallery/6.jpg",
+        "images/gallery/7.jpg",
+        "images/gallery/8.jpg",
+        "images/gallery/9.jpg"
+    ],
+    "colorSwatches":
+    {
+        "Swatch 1": {
+            "color1":"#EEF5D6",
+            "color2":"#96BB00",
+            "color3":"#8DA81F",
+            "color4":"#4E4E4E",
+            "color5":"#6D6D6D",
+            "color6":"#96BB00",
+            "color7":"#F5F9E6"
+        },
+        "Swatch 2": {
+            "color1":"#F9F7F5",
+            "color2":"#2B8EC2",
+            "color3":"#54585A",
+            "color4":"#212121",
+            "color5":"#878787",
+            "color6":"#a8a7a7",
+            "color7":"#ffffff"
+        },
+        "Swatch 3": {
+            "color1":"#ffffff",
+            "color2":"#DF9B36",
+            "color3":"#DEA653",
+            "color4":"#000000",
+            "color5":"#7c7c7c",
+            "color6":"#7c7c7c",
+            "color7":"#ffffff"
+        },
+        "Swatch 4": {
+            "color1":"#033649",
+            "color2":"#CDB380",
+            "color3":"#036564",
+            "color4":"#ffffff",
+            "color5":"#ffffff",
+            "color6":"#D1C7B7",
+            "color7":"#ffffff"
+        },
+        "Swatch 5": {
+            "color1":"#F1F1EE",
+            "color2":"#F39595",
+            "color3":"#4e4e4e",
+            "color4":"#000000",
+            "color5":"#757575",
+            "color6":"#757575",
+            "color7":"#ffffff"
+        }
+    },
+    "fontSwatch": {
+       "title": "Ubuntu, Candara, Futura, sans-serif",
+        "font1": {
+            "font-family": "\"Ubuntu\", Candara, Futura, sans-serif",
+            "font-size": "26px",
+            "font-weight": "400",
+            "line-height": "36px",
+            "color": "@color-swatch4",
+            "letter-spacing": "inherit"
+        },
+        "font2": {
+            "font-family": "\"Ubuntu\", Candara, Futura, sans-serif",
+            "font-size": "24px",
+            "font-weight": "400",
+            "line-height": "34px",
+            "color": "@color-swatch4",
+            "letter-spacing": "inherit"
+        },
+        "font3": {
+            "font-family": "\"Ubuntu\", Candara, Futura, sans-serif",
+            "font-size": "22px",
+            "font-weight": "400",
+            "line-height": "32px",
+            "color": "@color-swatch4",
+            "letter-spacing": "inherit"
+        },
+        "font4": {
+            "font-family": "\"Ubuntu\", Candara, Futura, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "26px",
+            "color": "@color-swatch5",
+            "letter-spacing": "inherit"
+        },
+        "font5": {
+            "font-family": "\"Ubuntu\", Candara, Futura, sans-serif",
+            "font-size": "16px",
+            "font-weight": "inherit",
+            "line-height": "26px",
+            "color": "@color-swatch5",
+            "letter-spacing": "inherit"
+        },
+        "font6": {
+            "font-family": "\"Ubuntu\", Candara, Futura, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "26px",
+            "color": "@color-swatch6",
+            "color-hover": "@color-swatch4",
+            "letter-spacing": "inherit",
+            "background-color": "@color-swatch1",
+            "background-color-hover": "@color-swatch1"
+         },
+        "font7": {
+            "font-family": "\"Ubuntu\", Candara, Futura, sans-serif",
+            "font-size": "16px",
+            "font-weight": "inherit",
+            "line-height": "26px",
+            "color": "@color-swatch7",
+            "letter-spacing": "inherit",
+            "background-color": "@color-swatch3",
+            "background-color-hover": "@color-swatch2"
+        },
+        "font8": {
+            "font-family": "\"Ubuntu\", Candara, Futura, sans-serif",
+            "font-size": "40px",
+            "font-weight": "400",
+            "line-height": "50px",
+            "color": "lighten(@color-swatch7, 10%)",
+            "letter-spacing": "inherit"
+        },
+        "font9": {
+            "font-family": "\"Ubuntu\", Candara, Futura, sans-serif",
+            "font-size": "18px",
+            "font-weight": "inherit",
+            "line-height": "28px",
+            "color": "lighten(@color-swatch7, 5%)",
+            "letter-spacing": "inherit"
+        },
+        "font10": {
+            "font-family": "\"Ubuntu\", Candara, Futura, sans-serif",
+            "font-size": "30px",
+            "font-weight": "700",
+            "line-height": "40px",
+            "color": "@color-swatch4",
+            "letter-spacing": "inherit"
+        }
+    }
+}
